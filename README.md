@@ -1,4 +1,10 @@
 # FinTrack AI
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Powered-4285F4?logo=google&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 FinTrack AI is a lightweight personal finance tracking application built with React, TypeScript, Vite, and Tailwind CSS.  
 It provides income and expense management, category summaries, visual analytics, and AI-powered insights using the Google Gemini API.
