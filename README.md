@@ -28,3 +28,7 @@ View this app in AI Studio: https://ai.studio/apps/drive/10C3ZpjJyeLL5u5djU82fwu
 
 3. Run the app:
    `npm run dev`
+
+---
+
+Maintained by **Amanjot**
